@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱
+
 I wrote my first hello-world program in QBASIC about 2 decades ago.
 Since, then I've built apps, lead small teams and an entire engineering department. I've programmed in Java, Javascript, PHP, Python to name a few.
 

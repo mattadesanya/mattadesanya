@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+It's been more than a decade since I wrote my first hello-world program in QBASIC. Today, I work with Javascript, and Python.
+
+I currently work as an Engineering Manager at YoungCapital in the Netherlands. Prior to this, I was the CTO at Zone Tech Park, the technology subsidiary of Workforce Group, Lagos, Nigeria. I also formerly worked as Lead Software Engineer and Engineering Manager on internal projects at Andela.
+
+I am passionate about building cutting edge apps, having worked on a number of software projects for the web, desktop and mobile platform. Notable among them is the Mobile Examiner (a prize winning mobile app on the Samsung Developer's Challenge, 2010). I am also interested in opportunities to help better organise engineering/technology departments of companies, with respect to work ethics/culture, soft skills, and work tools.
+
+A night owl scheming about how to make the world a better place.
+
+Besides work, I blog, teach and practice new chords on my guitar or piano.
 <!--
 **mattadesanya/mattadesanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,11 +3,12 @@
 🌱
 
 I wrote my first hello-world program in QBASIC about 2 decades ago.
+
 Since then, I've built apps, led small teams and an entire engineering department. I've programmed in Java, Javascript, PHP, Python to name a few.
 
 I currently work as an Engineering Manager, which means that I don't get to code much during the day. My work is everything between humans and computers.  
 
-This is my small safe space to push code as I continue to experiment with computers in the evenings and weekends :-)
+This is my little space to push code as I continue to experiment with computers :-)
 
 Besides work, I blog, teach and practice new chords on my guitar or piano.
 

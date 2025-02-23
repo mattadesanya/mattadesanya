@@ -6,7 +6,7 @@ I wrote my first hello-world program in QBASIC 20 years ago. Since then, I've bu
 
 I currently work as an Engineering Manager, which means that I don't get to code much during the day. My work is everything between humans and computers.  
 
-Most evenings and weekends, I shapeshift into a [bull](https://github.com/mattoranking).
+Most evenings and weekends, I shapeshift into this [bull](https://github.com/mattoranking).
 
 Besides work, I blog, teach and practice new chords on my guitar or piano.
 

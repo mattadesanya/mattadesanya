@@ -12,7 +12,7 @@ Besides work, I blog, teach and practice new chords on my guitar or piano.
 
 📫
 
-You can also find me on:
+You can find me on:
 [LinkedIn](https://www.linkedin.com/in/mattadesanya/),
 [Twitter](https://twitter.com/mattadesanya) and
 [Medium](https://mattadesanya.medium.com)

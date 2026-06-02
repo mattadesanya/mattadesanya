@@ -2,13 +2,15 @@
 
 🌱
 
-I wrote my first hello-world program in QBASIC 20 years ago. Since then, I've built apps, led small teams and an entire engineering department. I've programmed in Java, Javascript, PHP, Python to name a few.
+I am an Engineering Manager focused on building high-performing teams and sustainable engineering organizations.
 
-I currently work as an Engineering Manager, which means that I don't get to code much during the day. My work is everything between humans and computers.  
+Started with QBASIC more than 20 years ago. Since then I've built software, led teams, and learned that most engineering problems are ultimately people, communication, and systems problems.
+
+Still technical. Still building. Still learning.
+
+Writer, teacher, occasional musician.
 
 Most evenings and weekends, I shapeshift into this [bull](https://github.com/mattoranking).
-
-Besides work, I blog, teach and practice new chords on my guitar or piano.
 
 📫
 

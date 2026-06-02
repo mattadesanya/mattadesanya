@@ -2,9 +2,9 @@
 
 🌱
 
-I am an Engineering Manager focused on building high-performing teams and sustainable engineering organizations.
+Engineering Manager focused on building high-performing teams and sustainable engineering organizations.
 
-Started with QBASIC more than 20 years ago. Since then I've built software, led teams, and learned that most engineering problems are ultimately people, communication, and systems problems.
+I wrote my first program in QBASIC more than 20 years ago. Since then, I've built software, led teams, and learned that software scales through systems, but engineering scales through people.
 
 Still technical. Still building. Still learning.
 

@@ -8,9 +8,7 @@ I wrote my first program in QBASIC more than 20 years ago. Since then, I've buil
 
 Still technical. Still building. Still learning.
 
-Writer, teacher, occasional musician.
-
-Most evenings and weekends, I shapeshift into this [bull](https://github.com/mattoranking).
+Writer, teacher, occasional musician. Most evenings and weekends, I shapeshift into this [bull](https://github.com/mattoranking).
 
 📫
 
